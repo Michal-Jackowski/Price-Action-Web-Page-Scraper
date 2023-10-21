@@ -1,3 +1,7 @@
+# API files
+binance_config.py
+kucoin_config.py
+
 # Test files
 test.py
 
